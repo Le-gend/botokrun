@@ -1,0 +1,7 @@
+language: node_js
+
+rvm:
+
+ - 18.xx
+
+ - node_js
